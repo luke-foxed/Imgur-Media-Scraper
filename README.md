@@ -11,7 +11,7 @@ Execute the script using:
 `python ./image-scraper.py <search_term>` 
 (replacing search_term with your own search)
 
-## Usage 
+## Made With
 
 Made with some of the following:
 - selenium
